@@ -1,0 +1,15 @@
+{
+  "name": "retyped-hashmap-tsd-ambient",
+  "description": "TypeScript typings for hashmap",
+  "version": "2.0.3-0",
+  "licence": "MIT",
+  "repository": "https://github.com/retyped/hashmap-tsd-ambient",
+  "typescript": {
+    "definition": "hashmap.d.ts"
+  },
+  "keywords": [
+    "retyped",
+    "tsd",
+    "tsd-ambient"
+  ]
+}
